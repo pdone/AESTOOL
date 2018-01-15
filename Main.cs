@@ -5,7 +5,12 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Windows.Forms;
-
+/*
+ * Author: Pdone
+ * Create Date: 2018
+ * GitHub: https://github.com/pdone/FirstProject
+ * Weibo: https://weibo.com/pdone/
+*/
 namespace AESTOOL
 {
     public partial class Main : Form

@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>lock_48px_517134_easyicon.net.ico</ApplicationIcon>
+    <ApplicationIcon>lock_48px.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Newtonsoft.Json">
@@ -82,7 +82,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="lock_48px_517134_easyicon.net.ico" />
+    <Content Include="lock_48px.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
